@@ -1,5 +1,5 @@
 # LandingPages
-Landing Pages based on ReactJs 
+Landing Pages 100% ReactJs 
 
 # Setup
 
